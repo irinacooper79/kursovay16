@@ -19,7 +19,6 @@ public class CourseWork {
         }else{
             System.out.println ("Сотрудник с максимальной зарплатой:" + employeeWithMaxSalary = getEmployeeWithMaxSalary());
         }
-
         int[] slice = new int[5];
         int j = 0;
         for (int i = 0; i < arr.length; i++) {
